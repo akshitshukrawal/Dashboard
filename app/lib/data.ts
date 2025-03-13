@@ -64,7 +64,7 @@ export async function fetchCardData() {
 
     const data = await Promise.all([
       invoiceCountPromise,
-      customerCountPromise,
+      customerCountPromise, 
       invoiceStatusPromise,
     ]);
 
