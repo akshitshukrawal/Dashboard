@@ -25,7 +25,7 @@ yarn-error.log*
 .env
 
 # vercel (remove this if deploying via GitHub and want to track configuration)
-/.vercel
+# /.vercel
 
 # TypeScript
 *.tsbuildinfo
